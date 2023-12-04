@@ -1,0 +1,18 @@
+.btns{
+    cursor: pointer;
+    padding: 20px;
+    background-color: var(--first-color);
+    border: none;
+    border-radius: var(--size-border-radius);
+    width: max-content;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    transition: 0.9s ease;
+}
+
+.btns:hover {
+    border: 1px solid var(--first-color);
+    background-color: transparent;
+    color: #ff6584;
+}

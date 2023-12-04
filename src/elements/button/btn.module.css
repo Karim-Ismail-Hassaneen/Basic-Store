@@ -1,0 +1,20 @@
+.btn{
+    padding: 10px;
+    outline: 0;
+    border: 0;
+    border-radius: 5px;
+    background-color: #ff6584;
+    color: #fff;
+    font-weight: 700;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: 0.9s;
+    font-family: "Montserrat";
+}
+.btn:hover {
+    border: 1px solid #ff6584;
+    background-color: transparent;
+    color: #ff6584;
+    padding: 10px;
+    outline: 0;
+}
